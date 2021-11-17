@@ -6,7 +6,7 @@
 :description: Deploy Teradata Jupyter extensions in customer JupyterHub clusters
 :keywords: data warehouses, compute storage separation, teradata, vantage, cloud data platform, java applications, business intelligence, enterprise analytics, jupyter, teradatasql, ipython-sql, teradatasqlalchemy
 
-== Overview
+== Overview 
 For customers who have their own JupyterHub clusters, there are two
 options to integrate Teradata Jupyter extensions into the existing
 clusters:
